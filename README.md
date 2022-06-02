@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @booleanrecep
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Vue, React, TypeScript, Node, Golang projects
 - 📫 How to reach me recep.fed@gmail.com
 
